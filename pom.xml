@@ -22,8 +22,8 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://3.144.188.45:9000/</sonar.host.url>
-		<sonar.login>fcd858459e6ddf0970568bdfc952ee2e0d090498</sonar.login>
-		<!-- <sonar.password></sonar.password> -->
+		<sonar.login>revolution</sonar.login>
+		<sonar.password>Admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-releases/</url>
+	      <url>http://3.142.82.223:8081/repository/Task1Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	      <url>http://3.142.82.223:8081/repository/Tasl1Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
